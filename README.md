@@ -1,4 +1,4 @@
-### Olá, sou o dev Eduardo Silveira!⚡
+### Hello, I'm dev Eduardo Silveira!⚡
 
 <div>
   <a href="https://github.com/64651585">
@@ -9,7 +9,7 @@
   ![Snake animation](https://github.com/64651585/64651585/blob/output/github-contribution-grid-snake.svg)
   
   ##
-  ### Contato
+  ### Contact
   
 <div> 
   <a href="https://www.linkedin.com/in/eduardo-silveira-8445221ba/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
