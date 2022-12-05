@@ -1,12 +1,12 @@
 ### Hello, I'm dev Eduardo Silveira!⚡
 
 <div>
-  <a href="https://github.com/64651585">
+  <a href="https://github.com/eduardoksa">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=64651585&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=64651585&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoksa&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
-  ![Snake animation](https://github.com/64651585/64651585/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/eduardoksa/eduardoksa/blob/output/github-contribution-grid-snake.svg)
   
   ##
   ### Contact
